@@ -4,7 +4,5 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shuntia&show_icons=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shuntia&layout=compact&theme=tokyonight)
 
-[![Shuntia's GitHub stats](https://github-readme-stats.vercel.app/api?username=shuntia)](https://github.com/shuntia/github-readme-stats)
-
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shuntia&theme=tokyonight)
 ![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=shuntia.shuntia)
