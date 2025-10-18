@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">I'm a high schooler.<br>Feel free to send me an email through shuntia@shuntia[.]net if you have stuff, want to help out, or want to chat!<br>Check out my <a href="https://shuntia.net">website</a> for info other than dev.</p>
+<p align="left">I'm a high schooler.<br>Feel free to send me an email through shuntia@shuntia[.]net if you have stuff, want to help out, or want to chat!<br>Check out my <a href="https://github.shuntia.net">website</a> for info other than dev.</p>
 
 ###
 
